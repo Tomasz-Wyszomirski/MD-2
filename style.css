@@ -250,5 +250,8 @@ p {
     .pic-counter {
         font-size: 100%;
     }
+    .slide {
+        margin-top: -150px;
+    }
 }
 
