@@ -247,5 +247,8 @@ p {
     .sub-about p {
         font-size: 80%;
     }
+    .pic-counter {
+        font-size: 100%;
+    }
 }
 
